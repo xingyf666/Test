@@ -1,0 +1,11 @@
+site_name: Document
+nav:
+  - Home: 'index.md'
+  - Test:
+    - test1: 'test1.md'
+    - test2: 'pack/test2.md'
+    - test3: 'pack/test3.md'
+theme: 
+  name: material
+  custom_dir: custom_theme\
+extra_css: [css/extra.css]
