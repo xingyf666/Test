@@ -1,6 +1,9 @@
 
 <<<<<<< HEAD
+<<<<<<< HEAD
 =======
+=======
+>>>>>>> e265cb2ffae2e704c773085e759914aa535aef5b
 name: Test(Debug)
 
 on:
@@ -19,4 +22,7 @@ jobs:
       
     - name: Hello World
       run: echo "Hello, World! Hello, World! Hello, World! Hello, World! Hello, World! Hello, World! Hello, World!"
+<<<<<<< HEAD
 >>>>>>> e265cb2 (merge)
+=======
+>>>>>>> e265cb2ffae2e704c773085e759914aa535aef5b
